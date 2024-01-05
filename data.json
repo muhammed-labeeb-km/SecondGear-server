@@ -1,0 +1,102 @@
+{
+  "products": [
+    {
+      "id": "-C2fHuW",
+      "name": "Figo Aspire",
+      "mobile": "8083241274",
+      "category": "car",
+      "year": "2016",
+      "imgUrl": "https://i.postimg.cc/Znk6kdvN/figo.png",
+      "price": "230000",
+      "descr": "Full company service low kilometer vehicle "
+    },
+    {
+      "id": "8xAcFLF",
+      "name": "Verna",
+      "mobile": "8129867123",
+      "category": "car",
+      "year": "2015",
+      "imgUrl": "https://i.postimg.cc/QtT1R33Y/vernas.jpg",
+      "price": "560000",
+      "descr": "Verna like new\nfull paper\nno accident\nfixed price"
+    },
+    {
+      "id": "8QJV7qn",
+      "name": "Activa 3G",
+      "mobile": "8129867123",
+      "category": "bike",
+      "year": "2015",
+      "imgUrl": "https://i.postimg.cc/kMjSCLrs/Activa-3-G.jpg",
+      "price": "57000",
+      "descr": "well maintained non accidental"
+    },
+    {
+      "id": "ETJNGCq",
+      "name": "Octovia MKI",
+      "mobile": "9567643123",
+      "category": "car",
+      "year": "2004",
+      "imgUrl": "https://i.postimg.cc/fbtCSXX3/download.jpg",
+      "price": "199000",
+      "descr": "Mode 3 tuned with output 297 hp.\nsingle owner",
+      "soldTime": "01-01-2024 11:55:16 PM"
+    },
+    {
+      "id": "OGfbBDr",
+      "name": "Rx-100",
+      "mobile": "8129867123",
+      "category": "bikes",
+      "year": "2007",
+      "imgUrl": "https://i.postimg.cc/85gHfpgh/yamaha-rx-100.png",
+      "price": "99000",
+      "descr": "full renewd good condition bike"
+    }
+  ],
+  "sold": [
+    {
+      "id": "b0kFRPN",
+      "name": "Fiat Punto ",
+      "mobile": "9856742319",
+      "category": "car",
+      "year": "2014",
+      "imgUrl": "https://i.postimg.cc/8ccfBgCz/download-1.jpg",
+      "price": "257000",
+      "descr": "First Owner\nLow Km :56400\nslightly negotiable\nUragent sale\n",
+      "soldTime": "05-01-2024 07:06:02 PM"
+    },
+    {
+      "id": "fe5YJ_O",
+      "name": "Hyundai Creta",
+      "mobile": "7665412936",
+      "category": "car",
+      "year": "2016",
+      "imgUrl": "https://i.postimg.cc/sxwmhKk2/creta.jpg",
+      "price": "8,00,000",
+      "descr": "Showroom conditiom\n17020 KM driven\nLimited Edition",
+      "soldTime": "05-01-2024 07:19:18 PM"
+    }
+  ],
+  "register": [
+    {
+      "id": "8wTnGS7",
+      "name": "Labeeb",
+      "mail": "Labeeb@gmail.com",
+      "password": "Labeeb@123",
+      "password2": "Labeeb@123"
+    },
+    {
+      "id": "CM_dsyI",
+      "name": "Vibin",
+      "mail": "kmmuhammedlabeeb@gmail.com",
+      "password": "1234",
+      "password2": "1234"
+    },
+    {
+      "id": "lwqblhH",
+      "name": "Labeeb",
+      "mail": "Labeeb@8129",
+      "password": "1235",
+      "password2": "1235"
+    }
+  ]
+}
